@@ -7,7 +7,7 @@ This repository contains my solutions for the challenges hosted @HackerRank.com
 ## Practice
 
 <div align="left">
-	<img align="center" a target="_blank" href="https://www.java.com" > <img src="https://github.com/DaniloNelder/HackerRanks/tree/main/Java" />
+	<a href="https://github.com/DaniloNelder/HackerRanks/tree/main/Java"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v2.png"/></a>
 </div>
 
 
