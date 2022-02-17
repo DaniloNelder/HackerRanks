@@ -10,7 +10,7 @@ Challenge| Solution |
 [Java If-Else](/Java/AllCompetitions/java-if-else.pdf)|[JAVA](src/com/br/JavaIfElse.java)
 [Java Stdin and Stdout II](/Java/AllCompetitions/java-stdin-stdout2.pdf)|[JAVA](src/com/br/JavaStdinAndStdout2.java)
 [Java Output Formatting](/Java/AllCompetitions/java-output-formatting.pdf)|[JAVA](src/com/br/JavaOutFormatting.java)
-[Java Loops I](/Java/AllCompetitions/java-loops.pdf)|[JAVA](src/com/br/JavaLoops1.java)
+[Java Loops I](/Java/AllCompetitions/java-loops-i..pdf)|[JAVA](src/com/br/JavaLoops1.java)
 [Java Loops II](/Java/AllCompetitions/java-loops2.pdf)|[JAVA](src/com/br/JavaLoops2.java)
 [Java Datatypes](/Java/AllCompetitions/java-datatypes.pdf)|[JAVA](src/com/br/JavaDataTypes.java)
 [Java End of file](/Java/AllCompetitions/java-end-of-file.pdf)|[JAVA](src/com/br/JavaEndofFile.java)
