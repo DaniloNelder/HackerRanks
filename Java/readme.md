@@ -93,8 +93,3 @@ Challenge| Solution |
 [Java Lambda Expressions](/Java/AllCompetitions/java-lambda-expressions.pdf)|[JAVA](src/com/br/JavaLambdaExpressions.java)
 [Java MD5](/Java/AllCompetitions/java-md5.pdf)|[JAVA](src/com/br/JavaMD5.java)
 [Java SHA-256](/Java/AllCompetitions/sha-256.pdf)|[JAVA](src/com/br/SHA256.java)
-
-
-## ❤ Views and Followers
-<a href="https://komarev.com/ghpvc/?username=danilonelder"><img src="https://komarev.com/ghpvc/?username=danilonelder"></a>
-<a href="https://github.com/danilonelder?tab=followers"><img src="https://img.shields.io/github/followers/danilonelder?label=Followers&style=social" alt="GitHub Badge"></a>
