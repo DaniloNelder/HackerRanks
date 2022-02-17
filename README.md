@@ -4,7 +4,7 @@
 
 This repository contains my solutions for the challenges hosted @HackerRank.com
 
-## Practice
+## All Competitions
 
 <div align="left">
 	<a href="https://github.com/DaniloNelder/HackerRanks/tree/main/Java"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v2.png"/></a>
