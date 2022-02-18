@@ -89,7 +89,7 @@ Challenge| Solution |
 [Java Singleton Pattern](/Java/AllCompetitions/java-singleton.pdf)|[JAVA](src/com/br/JavaSingletonPattern.java)
 [Java Visitor Pattern](/Java/AllCompetitions/java-vistor-pattern.pdf)|[JAVA](src/com/br/JavaVisitorPattern.java)
 [Java Annotations](/Java/AllCompetitions/java-annotations.pdf)|[JAVA](src/com/br/JavaAnnotations.java)
-[Covariant Return Types](/Java/AllCompetitions/java-covariance.pdf)|[JAVA](src/com/br/CovariantReturnTypes.java)
+[Covariant Return Types](/Java/AllCompetitions/java-covariance-.pdf)|[JAVA](src/com/br/CovariantReturnTypes.java)
 [Java Lambda Expressions](/Java/AllCompetitions/java-lambda-expressions.pdf)|[JAVA](src/com/br/JavaLambdaExpressions.java)
 [Java MD5](/Java/AllCompetitions/java-md5.pdf)|[JAVA](src/com/br/JavaMD5.java)
 [Java SHA-256](/Java/AllCompetitions/sha-256.pdf)|[JAVA](src/com/br/SHA256.java)
