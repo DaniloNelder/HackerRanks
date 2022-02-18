@@ -44,11 +44,11 @@ Challenge| Solution |
 ###### Data Structures
 Challenge| Solution |
 ----------|----------
-[Java 1D Array](/Java/AllCompetitions/java-1d-array.pdf)|[JAVA](src/com/br/Java1DArray.java)
+[Java 1D Array](/Java/AllCompetitions/java-1d-array-introduction.pdf)|[JAVA](src/com/br/Java1DArray.java)
 [Java 2D Array](/Java/AllCompetitions/java-2d-array.pdf)|[JAVA](src/com/br/Java2DArray.java)
 [Java Subarray](/Java/AllCompetitions/java-negative-subarray.pdf)|[JAVA](src/com/br/JavaSubArray.java)
 [Java Arraylist](/Java/AllCompetitions/java-arraylist.pdf)|[JAVA](src/com/br/JavaArrayList.java)
-[Java 1D Array (Part 2)](/Java/AllCompetitions/java-1d-array-part2.pdf)|[JAVA](src/com/br/Java1DArrayPart2.java)
+[Java 1D Array (Part 2)](/Java/AllCompetitions/java-1d-array.pdf)|[JAVA](src/com/br/Java1DArrayPart2.java)
 [Java List](/Java/AllCompetitions/java-list.pdf)|[JAVA](src/com/br/JavaList.java)
 [Java Map](/Java/AllCompetitions/java-map.pdf)|[JAVA](src/com/br/JavaMap.java)
 [Java Stack](/Java/AllCompetitions/java-stack.pdf)|[JAVA](src/com/br/JavaStack.java)
