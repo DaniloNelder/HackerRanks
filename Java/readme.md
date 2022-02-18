@@ -50,7 +50,7 @@ Challenge| Solution |
 [Java Arraylist](/Java/AllCompetitions/java-arraylist.pdf)|[JAVA](src/com/br/JavaArrayList.java)
 [Java 1D Array (Part 2)](/Java/AllCompetitions/java-1d-array.pdf)|[JAVA](src/com/br/Java1DArrayPart2.java)
 [Java List](/Java/AllCompetitions/java-list.pdf)|[JAVA](src/com/br/JavaList.java)
-[Java Map](/Java/AllCompetitions/java-map.pdf)|[JAVA](src/com/br/JavaMap.java)
+[Java Map](/Java/AllCompetitions/phone-book.pdf)|[JAVA](src/com/br/JavaMap.java)
 [Java Stack](/Java/AllCompetitions/java-stack.pdf)|[JAVA](src/com/br/JavaStack.java)
 [Java Hashset](/Java/AllCompetitions/java-hashset.pdf)|[JAVA](src/com/br/JavaHashset.java)
 [Java Generics](/Java/AllCompetitions/java-generics.pdf)|[JAVA](src/com/br/JavaGerenics.java)
