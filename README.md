@@ -8,6 +8,7 @@ This repository contains my solutions for the challenges hosted @HackerRank.com
 
 <div align="left">
 	<a href="https://github.com/DaniloNelder/HackerRanks/tree/main/Java"> <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v2.png"/></a>
+	<a href="https://github.com/DaniloNelder/HackerRanks/tree/main/SQL"> <img src="https://img.icons8.com/ios/96/000000/sql.png"/></a>
 </div>
 
 
