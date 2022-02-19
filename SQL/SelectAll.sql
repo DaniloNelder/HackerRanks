@@ -1,0 +1,1 @@
+select id, name, countryCode, district, population from city
