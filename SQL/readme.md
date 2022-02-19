@@ -31,7 +31,7 @@ Challenge| Solution |
 ----------|----------
 [Type of Triangle](/SQL/AllCompetitions/what-type-of-triangle.pdf)|[SQL](SQL/TypeOfTriangle.sql)
 [The PADS](/SQL/AllCompetitions/the-pads.pdf)|[SQL](SQL/ThePads.sql)
-[Occupations](/SQL/AllCompetitions/occupations.pdf)|[SQL](SQL/SQL/Occupations.sql)
+[Occupations](/SQL/AllCompetitions/occupations.pdf)|[SQL](SQL/Occupations.sql)
 [Binary Tree Nodes](/SQL/AllCompetitions/binary-search-tree-1.pdf)|[SQL](SQL/BinaryTreeNodes.sql)
 [New Companies](/SQL/AllCompetitions/the-company.pdf)|[SQL](SQL/NewCompanies.sql)
 
