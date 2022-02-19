@@ -1,8 +1,0 @@
-SELECT
-    DISTINCT CITY
-FROM
-    STATION
-WHERE
-    CITY RLIKE '^[^aieou].*[^aieou]$'
-ORDER BY
-    CITY ASC;
