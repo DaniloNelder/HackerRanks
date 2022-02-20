@@ -1,4 +1,4 @@
-# All problems are solved in Java. <a href="https://www.hackerrank.com/danilo_nelder"> <img align="right" src="https://i.imgur.com/YQnaKXf.png" width="160px" /></a>
+# Java. <a href="https://www.hackerrank.com/danilo_nelder"> <img align="right" src="https://i.imgur.com/YQnaKXf.png" width="160px" /></a>
 
 ## Practice
 
